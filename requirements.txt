@@ -1,4 +1,15 @@
+<<<<<<< HEAD
+streamlit==1.39.0 
+torch==2.5.1+cu113
+transformers==4.46.1
+<<<<<<<< HEAD:requirements.txt
+gdown==5.2.0
+========
+gdown==5.2.0
+>>>>>>>> 71acde0eb7c8e889056d22e51aea8d828bca96ad:requirements.txt.txt
+=======
 streamlit==1.39.0 
 torch==2.5.1+cu113
 transformers==4.46.1
 gdown==5.2.0
+>>>>>>> 71acde0eb7c8e889056d22e51aea8d828bca96ad
