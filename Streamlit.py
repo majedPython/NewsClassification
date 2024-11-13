@@ -8,8 +8,6 @@ import os
 
 url='https://drive.google.com/uc?id=1-08NSwZfUPUgTX1Z__hSNFJKIM05R4WL'
 
-#https://drive.google.com/file/d/1-08NSwZfUPUgTX1Z__hSNFJKIM05R4WL/view?usp=sharing
-#https://drive.google.com/uc?id=1-08NSwZfUPUgTX1Z__hSNFJKIM05R4WL
 
 modelfile='bert_model_parameters.pth'
 
